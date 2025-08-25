@@ -1,4 +1,4 @@
-### Na minha máquina funciona... 👨🏻‍💻
+### "It works on my machine"... 👨🏻‍💻
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/gustavo-figueira/)
 
